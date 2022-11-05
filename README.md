@@ -22,6 +22,9 @@
    
    
   <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: brunotavares.95@hotmail.com">
+      <img width="25" src="gmail.svg">
+    </a>
     <a href = "https://www.linkedin.com/in/bruno-de-araujo-tavares-60471a217/">
       <img width="25" src="linkedin.svg">
     </a>
