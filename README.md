@@ -1,13 +1,10 @@
 ### <h2>Olá, seja bem-vindo! 👋</h2>
-<br>
 
-<div style="display: inline">
+<div >
   <img width="400"src="https://github-readme-stats.vercel.app/api?username=brunoatavares95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatavares95&layout=compact&langs_count=16&theme=dark"/>
+  <img align="right" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoatavares95&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
-
-<br><br><br>
+<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
